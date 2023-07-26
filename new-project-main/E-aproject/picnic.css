@@ -1,0 +1,55 @@
+#details{
+    height: 70vh;
+}
+.image{
+    height: 40vh;
+}
+#catagory{
+    width: 100%;
+    justify-content: center;
+    position: relative;
+    left: 2vh;
+}
+.cardimg{
+    height: 35vh;
+}
+.navbar {
+    background: rgb(67, 168, 155);
+    background: linear-gradient(90deg, rgba(67, 168, 155, 1) 0%, rgba(62, 209, 189, 1) 44%, rgba(0, 158, 190, 1) 86%);
+}
+.tour{
+    color: #ffffff;
+    background-color: #57C5B6;
+    text-align: center;
+    justify-content: center;
+}
+.catagory1{
+    color: #ffffff;
+    background-color: #57C5B6;
+}
+.arrival{
+    color: #ffffff;
+    background-color: #57C5B6;
+    text-align: center;
+    justify-content: center;
+}
+.body{
+    background-image: url(img/sun-tornado.png);
+}
+.btn1 {
+    background-color: #002B5B;
+    position: relative;
+    top: 2vh;
+    
+}
+.card-text {
+    color: #002B5B;
+    height: 25vh;
+    /* text-align: center; */
+}
+.logo{
+    height: 10vh;
+    width: 10vh;
+    border-radius: 50%;
+    border: #002B5B 2px solid;
+}
